@@ -1,5 +1,3 @@
----
-
 # Scalable SaaS Subscription Platform
 *An enterprise-grade reference architecture for Python-based SaaS systems.*
 
@@ -12,7 +10,6 @@ This project implements a robust Software as a Service (SaaS) foundation using *
 * **Enterprise Identity Management:** Utilizes **Django Allauth** for robust social (GitHub) and email-based authentication flows.
 * **DevOps & Automation:** Fully containerized with **Docker** and managed via **Rav** to ensure consistent development and production parity.
 
----
 
 ## Technical Stack
 | Category | Technologies |
